@@ -1,1 +1,2 @@
--r rreq.txt
+-r etc/base.txt
+-r etc/dev.txt
