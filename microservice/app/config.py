@@ -19,16 +19,15 @@ class APISettings(BaseSettings):
     # SYSTEM_IDENTITY = "headout"
     # SECRET_KEY = "headout"
     # BEARER_SYSTEM_JWT:str =''
-
-    SUPABASE_URL=os.getenv("SUPABASE_URL")
-    SUPABASE_KEY=os.getenv("SUPABASE_KEY")
-    SUPABASE_BUCKET_NAME=os.getenv("SUPABASE_BUCKET_NAME")
+    SUPABASE_URL: str = os.getenv("SUPABASE_URL", "")
+    SUPABASE_KEY: str = os.getenv("SUPABASE_KEY", "")
+    SUPABASE_BUCKET_NAME: Optional[str] = os.getenv("SUPABASE_BUCKET_NAME")
 
     # Redis Credentials
-    REDIS_HOST=os.getenv("REDIS_HOST", "localhost")
-    REDIS_PORT=os.getenv("REDIS_PORT", 6379)
-    REDIS_PASSWORD=os.getenv("REDIS_PASSWORD")
-    REDIS_KEY=os.getenv("REDIS_KEY")
+    REDIS_HOST: str = os.getenv("REDIS_HOST", "localhost")
+    REDIS_PORT: int = int(os.getenv("REDIS_PORT", "6379"))
+    REDIS_PASSWORD: Optional[str] = os.getenv("REDIS_PASSWORD")
+    REDIS_KEY: Optional[str] = os.getenv("REDIS_KEY")
     #COMMON
     
     class Config:
