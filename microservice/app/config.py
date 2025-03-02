@@ -14,11 +14,11 @@ load_dotenv(dotenv_path)
 class APISettings(BaseSettings):
     # DEBUG = True
 
-    JWT_ALGORITHM = "HS256"
-    S3_PRE_SIGNED_DEFAULT_EXPIRY = 7200
-    SYSTEM_IDENTITY = "headout"
-    SECRET_KEY = "headout"
-    BEARER_SYSTEM_JWT:str =''
+    # JWT_ALGORITHM = "HS256"
+    # S3_PRE_SIGNED_DEFAULT_EXPIRY = 7200
+    # SYSTEM_IDENTITY = "headout"
+    # SECRET_KEY = "headout"
+    # BEARER_SYSTEM_JWT:str =''
 
     SUPABASE_URL=os.getenv("SUPABASE_URL")
     SUPABASE_KEY=os.getenv("SUPABASE_KEY")

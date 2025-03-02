@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Sparkles } from 'lucide-react';
-const BASE_URL = "http://127.0.0.1:8000/headout/api";
+const BASE_URL = "https://quiz-production-e8f0.up.railway.app/headout/api";
 // // Sample data
 // const destinations = [
 //   {
