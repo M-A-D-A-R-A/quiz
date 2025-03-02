@@ -9,9 +9,8 @@ from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI()
 
 
-origins = [
-    "*" # React app address
-]
+
+origins = ["*"]
 
 app.add_middleware(
     CORSMiddleware,
@@ -20,6 +19,5 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 
 app.include_router(question_controller.router)
