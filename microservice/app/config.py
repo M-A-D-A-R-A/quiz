@@ -12,7 +12,7 @@ dotenv_path = os.path.join(BASE_DIR, ".env")
 load_dotenv(dotenv_path)
 
 class APISettings(BaseSettings):
-    DEBUG = True
+    # DEBUG = True
 
     JWT_ALGORITHM = "HS256"
     S3_PRE_SIGNED_DEFAULT_EXPIRY = 7200
