@@ -1,0 +1,2 @@
+-r etc/base.txt
+-r etc/dev.txt
