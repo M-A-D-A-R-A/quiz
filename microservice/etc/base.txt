@@ -6,3 +6,4 @@ python-dotenv
 PyJWT
 uvicorn
 redis
+supabase
