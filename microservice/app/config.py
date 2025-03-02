@@ -3,7 +3,7 @@ from functools import lru_cache
 import os
 from dotenv import load_dotenv
 
-from pydantic import BaseSettings
+from pydantic_settings import BaseSettings
 
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"))
 

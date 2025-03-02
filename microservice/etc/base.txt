@@ -7,3 +7,4 @@ PyJWT
 uvicorn
 redis
 supabase
+pydantic-settings
