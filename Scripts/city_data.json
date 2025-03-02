@@ -1,0 +1,162 @@
+[
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "This city is home to the world's busiest pedestrian crossing.",
+            "It features a towering red-and-white structure inspired by the Eiffel Tower."
+        ],
+        "fun_fact": [
+            "Tokyo has more neon signs than any other city in the world.",
+            "The city has a museum dedicated entirely to ramen noodles."
+        ],
+        "trivia": [
+            "Tokyo's metro system is used by over 8 million people daily.",
+            "The city was originally named Edo before becoming Tokyo in 1868."
+        ]
+    },
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "This city is known as the 'City of Light' and is famous for its art and fashion.",
+            "It is home to a iconic iron lattice tower located on the Champ de Mars."
+        ],
+        "fun_fact": [
+            "Paris has a replica of the Statue of Liberty facing its New York counterpart.",
+            "The city's oldest bridge is called Pont Neuf, which ironically means 'New Bridge.'"
+        ],
+        "trivia": [
+            "Paris has more dogs than children.",
+            "The Louvre is the world's largest art museum and a historic monument."
+        ]
+    },
+    {
+        "city": "New York City",
+        "country": "United States",
+        "clues": [
+            "This city is known as 'The Big Apple' and is a global hub for finance and culture.",
+            "It features a large park with a famous fountain and a statue of Alice in Wonderland."
+        ],
+        "fun_fact": [
+            "New York City's Central Park is larger than the country of Monaco.",
+            "The city has a hidden subway station beneath City Hall that is no longer in use."
+        ],
+        "trivia": [
+            "The Empire State Building has its own zip code.",
+            "New York City was the first capital of the United States."
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "This city is famous for its opera house with a distinctive sail-like design.",
+            "It has a large harbor bridge that is a popular spot for climbing."
+        ],
+        "fun_fact": [
+            "Sydney Harbour is home to the world's largest natural harbor.",
+            "The Sydney Opera House was designed by Danish architect Jørn Utzon."
+        ],
+        "trivia": [
+            "Sydney has over 100 beaches within the city limits.",
+            "The city's New Year's Eve fireworks display is one of the largest in the world."
+        ]
+    },
+    {
+        "city": "Cairo",
+        "country": "Egypt",
+        "clues": [
+            "This city is known as the 'City of a Thousand Minarets' and is home to ancient pyramids.",
+            "It is located near the Nile River, the longest river in the world."
+        ],
+        "fun_fact": [
+            "Cairo is home to the only remaining wonder of the ancient world, the Great Pyramid of Giza.",
+            "The city has a district called 'Garbage City' where residents recycle 80% of the city's waste."
+        ],
+        "trivia": [
+            "Cairo's Khan el-Khalili bazaar has been operating since the 14th century.",
+            "The city's metro system is one of only two in Africa."
+        ]
+    },
+    {
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "clues": [
+            "This city is famous for its annual Carnival festival and its iconic Christ the Redeemer statue.",
+            "It has a famous beach known for its black-and-white wave-patterned sidewalk."
+        ],
+        "fun_fact": [
+            "Rio de Janeiro was once the capital of Portugal, making it the only European capital outside of Europe.",
+            "The city's Maracanã Stadium has hosted two FIFA World Cup finals."
+        ],
+        "trivia": [
+            "Rio's Sugarloaf Mountain is named for its resemblance to the shape of concentrated refined sugar.",
+            "The city's Copacabana Beach is one of the most famous beaches in the world."
+        ]
+    },
+    {
+        "city": "Moscow",
+        "country": "Russia",
+        "clues": [
+            "This city is known for its iconic onion-domed cathedrals and the Kremlin.",
+            "It has a famous square that has been the site of many historical events."
+        ],
+        "fun_fact": [
+            "Moscow's metro system is one of the deepest in the world, with some stations over 80 meters deep.",
+            "The city's Red Square has nothing to do with communism; the name comes from an old Russian word meaning 'beautiful.'"
+        ],
+        "trivia": [
+            "Moscow has more billionaires per capita than any other city in the world.",
+            "The city's Bolshoi Theatre is one of the oldest and most renowned ballet and opera companies in the world."
+        ]
+    },
+    {
+        "city": "Cape Town",
+        "country": "South Africa",
+        "clues": [
+            "This city is known for its stunning natural beauty, including Table Mountain.",
+            "It is located at the southern tip of the African continent, near the Cape of Good Hope."
+        ],
+        "fun_fact": [
+            "Cape Town's Table Mountain is one of the oldest mountains in the world, at over 260 million years old.",
+            "The city is home to the only street in the world to have produced two Nobel Prize winners in the same year."
+        ],
+        "trivia": [
+            "Cape Town's Kirstenbosch National Botanical Garden is one of the most beautiful gardens in the world.",
+            "The city's V&A Waterfront is one of the most visited tourist attractions in South Africa."
+        ]
+    },
+    {
+        "city": "Bangkok",
+        "country": "Thailand",
+        "clues": [
+            "This city is known for its vibrant street life and ornate temples.",
+            "It has a famous market that floats on a river."
+        ],
+        "fun_fact": [
+            "Bangkok's full ceremonial name is the longest city name in the world, consisting of 168 letters.",
+            "The city's Wat Arun temple is covered in colorful porcelain and seashells."
+        ],
+        "trivia": [
+            "Bangkok is home to the world's largest golden Buddha statue.",
+            "The city's Chatuchak Weekend Market is one of the largest markets in the world."
+        ]
+    },
+    {
+        "city": "Toronto",
+        "country": "Canada",
+        "clues": [
+            "This city is known for its iconic CN Tower and diverse cultural neighborhoods.",
+            "It is located on the shores of Lake Ontario, one of the Great Lakes."
+        ],
+        "fun_fact": [
+            "Toronto's PATH is the largest underground shopping complex in the world.",
+            "The city's Yonge Street is listed in the Guinness World Records as the longest street in the world."
+        ],
+        "trivia": [
+            "Toronto is home to more than 140 languages, making it one of the most multicultural cities in the world.",
+            "The city's Rogers Centre was the first stadium in the world to have a fully retractable roof."
+        ]
+    }
+]
