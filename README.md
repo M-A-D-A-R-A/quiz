@@ -3,6 +3,9 @@
 ##  Overview
 The **Travel Quiz Game** is an interactive web application where users guess destinations based on clues. It integrates AI-generated data, a microservices backend, and caching for optimal performance. The game provides immediate feedback, tracks scores, and ensures secure data storage.
 
+## Desgin Overview
+![Desgin overview](assets/desgin.png)
+
 ## Features
 - **Dynamic AI-Generated Dataset**: Uses OpenAI APIs to generate trivia, fun facts, and clues for 100+ destinations.
 - **Interactive Gameplay**:
@@ -43,6 +46,8 @@ The **Travel Quiz Game** is an interactive web application where users guess des
 - **Backend Validation**: Users cannot peek into source code for answers since all data is retrieved via backend APIs.
 - **Rate Limiting**: Prevents abuse of endpoints.
 - **Secure API Keys**: Environment variables store sensitive information.
+
+
 
 ---
 This project effectively combines AI-powered data generation, a microservices backend, and frontend interactivity to create an engaging travel quiz experience! 🌍🎮
