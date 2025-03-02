@@ -10,7 +10,7 @@ COPY microservices/etc/base.txt .
 RUN pip install --no-cache-dir -r base.txt
 
 # Copy the rest of the application code
-COPY microservices .
+COPY microservices/app .
 
 # Expose the port FastAPI runs on
 EXPOSE 8000
