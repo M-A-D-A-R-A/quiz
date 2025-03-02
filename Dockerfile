@@ -4,13 +4,13 @@ FROM python:3.11
 WORKDIR /app
 
 # Copy only requirements first for better caching
-COPY microservices/etc/base.txt .
+COPY microservice/etc/base.txt .
 
 # Install dependencies
 RUN pip install --no-cache-dir -r base.txt
 
 # Copy the rest of the application code
-COPY microservices/app .
+COPY microservice/app .
 
 # Expose the port FastAPI runs on
 EXPOSE 8000
